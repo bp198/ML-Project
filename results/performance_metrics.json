@@ -1,0 +1,26 @@
+{
+  "ml_r2_corrected": 0.9813114051372922,
+  "ml_mae_corrected": 2.3497407189988793,
+  "ml_rmse_corrected": 6.557376835388805,
+  "test_samples": 5808,
+  "features_used": 10,
+  "features_list": [
+    "longitude",
+    "latitude",
+    "equatorial_distance_manual",
+    "order_encoded",
+    "family_encoded",
+    "genus_encoded",
+    "environment_encoded",
+    "life_habit_encoded",
+    "diet_encoded",
+    "hemisphere_manual_encoded"
+  ],
+  "model_status": "CORRECTED - No Data Leakage",
+  "verification_status": "READY_FOR_TESTING",
+  "timestamp": "2025-06-29T13:38:17.322224",
+  "manual_r2": 0.5065562931564402,
+  "manual_mae": 22.520636989319918,
+  "improvement_r2": 0.47475511198085196,
+  "improvement_mae_percent": 89.56627772068254
+}

@@ -1,0 +1,11 @@
+Feature,Importance
+family_encoded,0.522813
+order_encoded,0.209187
+diet_encoded,0.103698
+longitude,0.057448
+latitude,0.036837
+genus_encoded,0.027115
+equatorial_distance_manual,0.026658
+environment_encoded,0.009023
+life_habit_encoded,0.006725
+hemisphere_manual_encoded,0.000496

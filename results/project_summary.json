@@ -1,0 +1,20 @@
+{
+  "project_name": "Trilobite Age Prediction",
+  "timestamp": "20250629_1332",
+  "total_samples": 29039,
+  "test_samples": 5808,
+  "features_used": 13,
+  "model_type": "Random Forest Regressor",
+  "performance_r2": 0.9813114051372922,
+  "performance_mae": 2.3497407189988793,
+  "top_feature": "family_encoded",
+  "files_exported": [
+    "model_artifacts.pkl",
+    "predictions_comparison.csv",
+    "feature_importance.csv",
+    "comprehensive_results.png",
+    "performance_metrics.json",
+    "report.html",
+    "project_summary.json"
+  ]
+}
